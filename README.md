@@ -10,7 +10,7 @@
 
 <center>
   
-<h1> Подписка на блог </h1>
+<h1> Подписка услуги </h1>
 <h2> Дайте ответы на вопросы </h2>
 <form method="post" action="mailo:nadiya@ukr.net">
 <h3> Email </h3>
